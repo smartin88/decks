@@ -27,6 +27,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "draguhn",
+      "name": "Max Draguhn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54434107?v=4",
+      "profile": "https://www.linkedin.com/in/draguhn/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7

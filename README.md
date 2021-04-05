@@ -2,7 +2,9 @@
 
 
 
-# Decks 
+# Decks <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <p align="center"><img src="./images/homepage-screenshot.jpeg" /></p>
 
@@ -34,4 +36,19 @@ The app was written entirely in Typescript and was developed by a team of 3 deve
 
 
 ## Contributors 🐾
+
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/carlaastrain/"><img src="https://avatars.githubusercontent.com/u/75937847?v=4?s=150" width="150px;" alt=""/><br /><sub><b>Carla Astrain </b></sub></a><br /><a href="https://github.com/smartin88/Decks/commits?author=carlaastrain" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 

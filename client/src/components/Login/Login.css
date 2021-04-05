@@ -1,0 +1,92 @@
+.login__container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Share Tech Mono', sans-serif;
+  background: #999999; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to bottom,
+    #c2afc2,
+    #999999
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to bottom,
+    #c2afc2,
+    #999999
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.login__card {
+  display: flex;
+  flex-direction: column;
+  width: 40vw;
+  min-width: 350px;
+  border: 4px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 15px;
+  box-shadow: 0px 0px 20px #838383;
+  padding: 40px;
+  background-color: white;
+}
+
+.login__heading {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+.login__form__label {
+  padding-bottom: 10px;
+}
+
+.login__form__input__container {
+  display: flex;
+  padding-bottom: 10px;
+}
+
+.login__form__input {
+  font-family: 'Share Tech Mono', sans-serif;
+  font-size: 1.2em;
+  width: 100%;
+  padding: 10px;
+}
+
+.login__form__button__container {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 10px;
+}
+
+.login__form__button {
+  font-family: 'Share Tech Mono', sans-serif;
+  font-size: 1.2em;
+  background-color: white;
+  border-style: none;
+  cursor: pointer;
+}
+
+.login__form__link__container {
+  padding-top: 10px;
+}
+
+a {
+  color: black;
+}
+
+.login__alert {
+  text-align: center;
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+.login__alert__warning {
+  text-align: center;
+  font-size: 1.2em;
+  margin-bottom: 10px;
+  color: red;
+}

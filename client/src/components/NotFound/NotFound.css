@@ -1,0 +1,23 @@
+.container__404 {
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  background: #999999
+  ; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to bottom,
+    #c2afc2,
+    #999999
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to bottom,
+    #c2afc2,
+    #999999
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}

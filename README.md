@@ -6,8 +6,6 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-<p align="center"><img src="./images/homepage-screenshot.jpeg" /></p>
-
 Decks is an web application that allows users to generate and share their own digital flash cards and practice learning them in a fun, intuitive way with their friends.
 
 The app was written entirely in Typescript and was developed by a team of 3 developers who are mentioned below. 👱‍♂️🧔👩

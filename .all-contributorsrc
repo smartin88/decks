@@ -1,0 +1,43 @@
+{
+  "projectName": "Decks",
+  "projectOwner": "smartin88",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 150,
+  "commit": true,
+  "commitConvention": "eslint",
+  "contributors": [
+    {
+      "login": "carlaastrain",
+      "name": "Carla Astrain ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75937847?v=4",
+      "profile": "https://www.linkedin.com/in/carlaastrain/",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "smartin88",
+      "name": "Shaun Martin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74296786?v=4",
+      "profile": "https://www.linkedin.com/in/shaun-martin-5860ba45/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "draguhn",
+      "name": "Max Draguhn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54434107?v=4",
+      "profile": "https://www.linkedin.com/in/draguhn/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
